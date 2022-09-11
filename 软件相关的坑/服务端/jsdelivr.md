@@ -1,6 +1,8 @@
+## jsdelivr  dns污染
+域名换成
+`fastly.jsdelivr.net`
 
-```shell
 
-# cdn.jsdelivr.net 被污染可换 fastly.jsdelivr.net
-```
+## jsdelivr 缓存刷新方法
+`https://purge.jsdelivr.net/`
 
