@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "5dcecafff73cae0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "2555bcc8169902d4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "mac/Parallels Desktop.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f0c0a04e063363e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a46fe9f2ff9eb0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3cdc2cd46e68dfe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f000e7d58811e580",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47551818ccca25ff",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "86df453e4fa544ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "98dc505ffacbdf9d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02f6942b449894af",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "mac/Parallels Desktop.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fd98e24bf919a3ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mac/Parallels Desktop.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5daafc5bf66f6720",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6aad78ad22204971",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mac/Parallels Desktop.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2555bcc8169902d4",
+  "lastOpenFiles": []
+}

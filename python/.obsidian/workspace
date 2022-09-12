@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "e67b6989777c7a59",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a177cb73983a38a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "一、基本数据类型.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0e4349a48a847904",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "eda7f31742065344",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "e1289aa65c542cbf",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "845161e06abb03e8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ccd6f1f051c4d551",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2b2d76cb86010caf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8e3a4714a70d71e3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "一、基本数据类型.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0864b69438a19d6d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "一、基本数据类型.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e82e1a1abc333473",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "一、基本数据类型.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "5a177cb73983a38a",
+  "lastOpenFiles": []
+}
