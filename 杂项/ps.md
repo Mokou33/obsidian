@@ -2,7 +2,7 @@
 
 
 
-```shell
+```css
 ctrl + g	# 编辑组
 Ctrl + shift + g 	# 取消组
 alt + ↑ / alt + ↓  # 复制当前图层
