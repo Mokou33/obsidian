@@ -18,9 +18,7 @@ git pull --rebase or
 
 前端文档
 
-```css
-https://malun666.github.io/aicoder_vip_doc
-```
+`https://malun666.github.io/aicoder_vip_doc`
 
 VScode 插件
 
