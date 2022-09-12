@@ -36,11 +36,11 @@ touch ~/.bashrc
 
 在 .bashrc 文件中输入下面内容
 
-# 用于输出 git 提交日志
+## 用于输出 git 提交日志
 
 alias git-log='git log --pretty=oneline --all --graph --abbrev-commit'
 
-# 用于输出当前目录所有文件及基本信息
+## 用于输出当前目录所有文件及基本信息
 
 alias ll='ls -al'
 
