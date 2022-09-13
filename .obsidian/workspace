@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "git/git 安装与常用命令.md",
+            "file": "Adobe/ps/一、基础相关及常用快捷键.md",
             "mode": "source",
             "source": false
           }
@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "git/git 安装与常用命令.md",
+            "file": "Adobe/ps/一、基础相关及常用快捷键.md",
             "mode": "preview",
             "source": false
           }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git 安装与常用命令.md",
+                "file": "Adobe/ps/一、基础相关及常用快捷键.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git 安装与常用命令.md",
+                "file": "Adobe/ps/一、基础相关及常用快捷键.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git 安装与常用命令.md"
+                "file": "Adobe/ps/一、基础相关及常用快捷键.md"
               }
             }
           }
@@ -140,11 +140,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "b2d1a77a105c9b08",
   "lastOpenFiles": [
+    "git/git 安装与常用命令.md",
     "git/git常见问题.md",
     "Adobe/ps/一、基础相关及常用快捷键.md",
     "README.md",
@@ -153,7 +153,6 @@
     "软件相关的坑/mac/Parallels Desktop.md",
     "软件相关的坑/mac/ClashX.md",
     "软件相关的坑/服务端/jsdelivr.md",
-    "杂项/github项目.md",
-    "杂项/git.md"
+    "杂项/github项目.md"
   ]
 }
