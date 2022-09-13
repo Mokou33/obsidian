@@ -5,6 +5,13 @@
 `source ~/.bashrc`
 
 
+# git取消代理
+
+-   先执行`git config --global -l`命令 查看git代理设置
+-   继续在终端执行`git config --global -e`进入编辑状态，然后删掉报错的端口，重新拉取代码就好了
+
+
+
 # git pull时冲突的几种解决方式(小结)
 **1. 忽略本地修改，强制拉取远程到本地**
 ```shell
@@ -17,6 +24,9 @@
 关于commit和pull的先后顺序，commit——》pull——》push 和 pull——》commit——》push的顺序
 
 https://www.jb51.net/article/191655.htm
+
+
+
 
 
 # 设置代理解决github被墙
