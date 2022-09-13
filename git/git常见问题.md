@@ -1,12 +1,25 @@
-## Mac 每次都要执行source ~/.bashrc 配置的环境变量才生效
+# Mac 每次都要执行source ~/.bashrc 配置的环境变量才生效
 
 在~/.zshrc文件最后，增加一行：
 
 `source ~/.bashrc`
 
 
+# git pull时冲突的几种解决方式(小结)
+**1. 忽略本地修改，强制拉取远程到本地**
+```shell
+ git fetch --all
+ git reset --hard origin/main
+ git pull
+ 
 
-## 设置代理解决github被墙
+```
+关于commit和pull的先后顺序，commit——》pull——》push 和 pull——》commit——》push的顺序
+
+https://www.jb51.net/article/191655.htm
+
+
+# 设置代理解决github被墙
 
 
 经常发现，自己虽然有梯子，可以正常访问github页面，但是在发现“git clone”命令速度特别慢，有时还经常卡掉。本文通过设置git 代理，解决被墙问题。
@@ -90,11 +103,11 @@ https代理存在一个局限，那就是没有办法做身份验证，每次拉
 
 更进一步是设置ssh代理。只需要配置一个config就可以了。
 
-# Linux、MacOS
+## Linux、MacOS
 
 vi ~/.ssh/config
 
-# Windows
+## Windows
 
 到C:\Users\your_user_name\.ssh目录下，新建一个config文件（无后缀名）
 
@@ -149,7 +162,7 @@ Host [ssh.github.com](http://ssh.github.com/)
 
 保存后文件后测试方法如下，返回successful之类的就成功了。
 
-# 测试是否设置成功
+## 测试是否设置成功
 
 ssh -T [git@github.com](mailto:git@github.com)
 
@@ -176,3 +189,5 @@ ssh -T [git@github.com](mailto:git@github.com)
   
 
 很多朋友配置代理之后，可以正常访问github 网页了，但是发现在本地克隆github仓库（git clone xxx）时还是报网络错误。那是因为git clone 没有走你的代理，所以需要设置git走你的代理才行。
+
+
