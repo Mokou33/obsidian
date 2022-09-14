@@ -7,8 +7,6 @@
 -   vi    vi编辑器
    
 
-  
-
 1.  设置用户信息
    
 `git config --global user.name "用户名"`   全局设置用户名
@@ -17,7 +15,6 @@
 
 ` git config --list `  查看配置
 
-  
 
 设置指令别名
 
@@ -49,13 +46,11 @@ alias ll='ls -al'
 -   git log  查看提交日志 *
 
   
-
 版本回退
 
 -   版本切换 ` git reset  --hard commit ID `
 
 -   查看版本日志  ` git reflog
-
 
 
 3.  分支
@@ -78,28 +73,15 @@ alias ll='ls -al'
     -   强制删除 ` git branch -D 分支名 `
     
 
-  
-
 远程仓库操作
-
-  
 
 git branch -vv  查看本地仓库与远程仓库的关联
 
-  
-
 -   将本地仓库关联远程仓库
-    
 -   -   ` git remote add origin  <仓库地址> `
-        
 -   查看远程仓库
-    
 -   -   ` git remote `
-    
 -   将本地代码推送至远程仓库  git push [ -f ] [ --set-upstream ] [ 本地分支名 ] : [ 远端分支名 ]
-    
 -   -   ` git push origin master `
-        
     -   -   -f  强制覆盖
-        
-        -   --set-upstream  推送到远端的同时并且建立起和远端分支的关联关系
+    -   --set-upstream  推送到远端的同时并且建立起和远端分支的关联关系
