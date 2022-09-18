@@ -7,8 +7,12 @@
         "id": "b2d1a77a105c9b08",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Adobe/ps/一、基础相关及常用快捷键.md",
+            "mode": "source",
+            "source": false
+          }
         },
         "group": "bf1d49c00b3aa1cf"
       },
@@ -16,8 +20,12 @@
         "id": "1078d8f1a0ee486f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Adobe/ps/一、基础相关及常用快捷键.md",
+            "mode": "preview",
+            "source": false
+          }
         },
         "group": "bf1d49c00b3aa1cf"
       }
@@ -83,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Adobe/ps/一、基础相关及常用快捷键.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Adobe/ps/一、基础相关及常用快捷键.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Adobe/ps/一、基础相关及常用快捷键.md"
+              }
             }
           }
         ],
@@ -128,14 +140,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "e520aed38273412b",
+  "active": "b2d1a77a105c9b08",
   "lastOpenFiles": [
+    "git/git常见问题.md",
     "git/git 安装与常用命令.md",
     "Adobe/ps/一、基础相关及常用快捷键.md",
-    "git/git常见问题.md",
     "README.md",
     "python/一、基本数据类型.md",
     "杂项/白嫖.md",
