@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "e876710e482e0954",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac25a3e1c675eab6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "git.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "276c76b017e4923c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bd9430785ea0ed98",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "e9e1be8dbc3dfd21",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f218e0fb02fd69f3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "4e149215cb2d6379",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ee1bac344c4234b4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "acf4828bad523a1a",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "git.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1a82619054b264c2",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "git.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "35e1fa28af42f402",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "git.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "ac25a3e1c675eab6",
+  "lastOpenFiles": []
+}
